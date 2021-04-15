@@ -34,15 +34,7 @@
                     <td>
                         {{p}} - {{destinazione[i]}}
                     </td>
-                    <!-- <template v-for="(ris,j) in p" :key="j"> -->
-                        <!-- <td v-if="ris.date == '20210415'" colspan="2"> -->
-                            <!-- <ul>
-                            <li> -->
-                                <!-- <p>{{ris.date}}</p> -->
-                            <!-- </li>
-                            </ul> -->
-                        <!-- </td> -->
-                    <!-- </template> -->
+                    
                 </tr>
             </table> 
                 
@@ -112,18 +104,6 @@ import stops from '../assets/json/stops.json';
                     }
                 )
             }
-
-            // function getOrariOggi(tripID){
-            //     return calendar.filter(
-            //         function(calendar){
-            //             return trips.filter(
-            //                 function(trips){
-            //                     return trips.trip_id == tripID
-            //                 }
-            //             )[0].service_id == calendar.service_id;
-            //         }
-            //     )
-            // }
 
             function getOrariOggi(tripID){
                 let dates = calendar.filter(
