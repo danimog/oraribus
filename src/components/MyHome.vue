@@ -26,10 +26,10 @@
                     <th>Nome fermata</th>
                     <td>{{fermata}} </td>
                 </tr>
-                <tr>
+                <!-- <tr>
                     <th>Partenza per</th>
                     <td> {{partePer}} </td>
-                </tr>
+                </tr> -->
                 <tr v-for="(p,i) in orariOggi" :key="i">
                     <td>
                         {{p}} - {{destinazione[i]}}
@@ -70,7 +70,7 @@ import stops from '../assets/json/stops.json';
             const zoom = 13;
             const center = [44.1232, 9.7259];
             const destinazione = ref([]);
-            const partePer = ref("");
+            // const partePer = ref("");
             
             resCalendar.value = calendar;
             resRoutes.value = routes;
@@ -79,6 +79,15 @@ import stops from '../assets/json/stops.json';
             resShapes.value = shapes;
             resTrips.value = trips;
 
+            /***
+             * alla funzione getStop5T viene passato lo stop_id 
+             * questo trasformato in stringa viene processato per capire se è una fermata dei 3 comuni delle Cinque Terre
+             * VE = Vernazza
+             * RM = Riomaggiore 
+             * MR = Monterosso
+             * il controllo viene fatto su tutti gli stop_id. 
+             * 
+            ***/
             function getStop5T(check){
                 if (
                     (check.toString().startsWith("VE")) ||
@@ -86,6 +95,7 @@ import stops from '../assets/json/stops.json';
                     (check.toString().startsWith("MR"))
                 ) return true;
             }
+           
            
             function getFermata(stopID) {
                 return stops.filter(
@@ -124,14 +134,23 @@ import stops from '../assets/json/stops.json';
                 return false;
             }
 
+            /**
+             * la funzione getOrario (a cui viene passato lo stop_id della fermata cliccata sulla mappa)
+             * cicla il json stop_times.json che contiene una serie di dati tra cui: 
+             * trip_id -> associato al json trips.json
+             * departure_time -> per conoscere l'orario legato alla fermata (stop_id)
+             * stop_sequence -> per capire l'ordine della corsa 
+             */
             function getOrario(stopID){
                 destinazione.value = [];
                 orariOggi.value = []
                 
+                /** ciclo for sul json stop_times per capire se lo stop_id passato dal click corrisponde nel json  */
                 for (let i=0; i<resStop_times.value.length;i++){
                     if (resStop_times.value[i].stop_id == stopID){ 
+                /** se gli stop_id coincidono cerco il nome della fermata chiamando la funzione getFermata */
                         fermata.value = getFermata(stopID)[0].stop_name; //nome della fermata
-                        partePer.value = getDestinazione(resStop_times.value[i].trip_id)[0].route_long_name; // nome destinazione
+                        // partePer.value = getDestinazione(resStop_times.value[i].trip_id)[0].route_long_name; // nome destinazione
                         
                         // controllo se l'orario è corrispondente alla data di oggi
                         // se si inserisco nell'array orariOggi
@@ -173,7 +192,7 @@ import stops from '../assets/json/stops.json';
                 resTrips,  
                 resShapes, 
                 filteredStops,
-                partePer,
+                // partePer,
                 departureTimes,
                 orariOggi,
                 fermata,
