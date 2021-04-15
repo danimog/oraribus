@@ -1,0 +1,2432 @@
+[
+    {
+      "route_id": 10,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Casoni Capolinea",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 1002,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Ricco' Del Golfo",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 1003,
+      "agency_id": "ATC",
+      "route_short_name": 11,
+      "route_long_name": "Linea 11",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 1007,
+      "agency_id": "ATC",
+      "route_short_name": "C",
+      "route_long_name": "Linea C",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 1008,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Teviggio Capolinea",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 1009,
+      "agency_id": "ATC",
+      "route_short_name": 28,
+      "route_long_name": "Linea 28",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 1015,
+      "agency_id": "ATC",
+      "route_short_name": "P",
+      "route_long_name": "Linea P",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 1018,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Sarzana",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 1019,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Casano Capolinea",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 1020,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Piazza Chiodo",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 1028,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "La Foce (Sp)",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 1029,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Borghetto",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 1030,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Pignone",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 1031,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Sesta Godano",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 1032,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Padivarma",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 1033,
+      "agency_id": "ATC",
+      "route_short_name": 18,
+      "route_long_name": "Linea 18",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 1037,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Ceparana",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 1038,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Bolano Capolinea",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 1046,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Sarzana - Sarzanello / Sarzanello - Sarzana",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 1048,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Piazza Chiodo - Vezzano / Vezzano - Piazza Chiodo",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 1050,
+      "agency_id": "ATC",
+      "route_short_name": 13,
+      "route_long_name": "San Rocco",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 1051,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "San Rocco",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 1052,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Ospedale",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 1053,
+      "agency_id": "ATC",
+      "route_short_name": 15,
+      "route_long_name": "Linea 15",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 1055,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Pian Di Follo",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 1059,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Dosso",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 1064,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Ponte Graveglia",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 1065,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Cassego Capolinea",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 1068,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Vallecchia Capolinea",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 107,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Chiappa",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 1072,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Montemarcello",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 108,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Beverone Capolinea",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 1083,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Levanto Comune",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 1089,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Zanego",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 1093,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Costa",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 1096,
+      "agency_id": "ATC",
+      "route_short_name": 8,
+      "route_long_name": "Linea 8",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 1097,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Deposito Mazzetta",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 110,
+      "agency_id": "ATC",
+      "route_short_name": 24,
+      "route_long_name": "Linea 24",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 1102,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Ponte Beverino",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 1107,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Pian Di Madrignano",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 1113,
+      "agency_id": "ATC",
+      "route_short_name": 22,
+      "route_long_name": "Linea 22",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 1119,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Cavanella",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 112,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Marinella Capolinea",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 1125,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Bocca Di Magra",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 1127,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Barcola",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 113,
+      "agency_id": "ATC",
+      "route_short_name": 16,
+      "route_long_name": "Linea 16",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 1137,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Bradia Capolinea",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 1139,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Sarbia",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 1147,
+      "agency_id": "ATC",
+      "route_short_name": 23,
+      "route_long_name": "Linea 23",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 1148,
+      "agency_id": "ATC",
+      "route_short_name": 6,
+      "route_long_name": "Linea 6",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 1155,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Corvara - Bracelli - Padivarma",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 1158,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Stadomelli",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 1162,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Montebello Capolinea",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 1171,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Suvero Capolinea",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 1172,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Rocchetta Di Vara",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 1185,
+      "agency_id": "ATC",
+      "route_short_name": 29,
+      "route_long_name": "Linea 29",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 1192,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Aulla",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 1199,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Laghi",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 12,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Torpiana",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 1210,
+      "agency_id": "ATC",
+      "route_short_name": "S",
+      "route_long_name": "Linea S",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 1212,
+      "agency_id": "ATC",
+      "route_short_name": "L",
+      "route_long_name": "Linea L",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 1216,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Quaratica",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 1218,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "La Spezia",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 1219,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Faggiona",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 1221,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Buonviaggio",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 1223,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Bivio Montalbano",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 1225,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Carnea Capolinea",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 1226,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Valdurasca",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 1227,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Falcinello Capolinea",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 1232,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Polverara Capolinea",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 1237,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "La Serra",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 1245,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Legnaro",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 1256,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Lerici Comune",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 1259,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "La Foce Framura",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 1266,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Gambella",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 1268,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Castello Di Madrgnano",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 1277,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Piano Di Arcola Carabinieri",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 129,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Val Graveglia",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 1385,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Fontevivo",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 146,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Bruscarolo Capolinea",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 15,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Fiumaretta",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 150,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Migliarina",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 1579,
+      "agency_id": "ATC",
+      "route_short_name": 3,
+      "route_long_name": "Linea 3",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 1582,
+      "agency_id": "ATC",
+      "route_short_name": 5,
+      "route_long_name": "Linea 5",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 159,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Montalbano",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 1590,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Due Giugno",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 1599,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Ospedale S.Caterina - Capolinea",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 1603,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Framura Fs",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 1605,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Nicola",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 167,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Borghetto - L'Ago / Cassana - Borghetto",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 1695,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Fiumaretta - Bocca Di Magra",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 1699,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Borseda",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 1700,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Piazza Caduti",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 1734,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "San Terenzo",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 1744,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Muggiano",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 1757,
+      "agency_id": "ATC",
+      "route_short_name": 12,
+      "route_long_name": "Linea 12",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 1794,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "San Cipriano",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 18,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Calice",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 1818,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Borghetto - Cassana / L'Ago - Borghetto",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 1831,
+      "agency_id": "ATC",
+      "route_short_name": "SC",
+      "route_long_name": "Linea Sc",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 1863,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Via Fiume Fs",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 1907,
+      "agency_id": "ATC",
+      "route_short_name": 1,
+      "route_long_name": "Linea 1",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 1912,
+      "agency_id": "ATC",
+      "route_short_name": 19,
+      "route_long_name": "Linea 19",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 194,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Luni Fs",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 1966,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Corea Capolinea",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 1969,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Piazza Caduti Del Lavoro",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 1985,
+      "agency_id": "ATC",
+      "route_short_name": 20,
+      "route_long_name": "Linea 20",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 1988,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "La Spezia Fs",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 2019,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Varese Ligure",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 2055,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Ponzano Superiore",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 207,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Coregna",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 2086,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Via Bixio",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 2090,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Castelnuovo Capolinea",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 2100,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Bivio Velva",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 2110,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Carro",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 2132,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "22 / 27",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 2142,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Bivio Carlotta",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 2171,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Valeriano",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 2190,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Sarzana - Via Muccini",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 2193,
+      "agency_id": "ATC",
+      "route_short_name": 21,
+      "route_long_name": "Linea 21",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 2199,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Oradoro",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 2235,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Bivio Riomaggiore",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 2244,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Ponzano Magra",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 225,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Vezzano Basso",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 2254,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Mattarana",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 230,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Piazza Chiodo - Vezzano / Vezzano - Migliarina",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 231,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Vezzano Alto",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 2312,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Santo Stefano Comune",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 2313,
+      "agency_id": "ATC",
+      "route_short_name": "SA",
+      "route_long_name": "Linea Sa",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 233,
+      "agency_id": "ATC",
+      "route_short_name": 13,
+      "route_long_name": "Linea 13",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 2355,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Cimitero Marinasco",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 2357,
+      "agency_id": "ATC",
+      "route_short_name": "A",
+      "route_long_name": "Linea A",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 2380,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Luni Mare",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 2383,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Ortonovo Capolinea",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 2385,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Scuole Medie Ortonovo",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 2386,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Fossitermi",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 2402,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Via Chiodo Giardini",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 2460,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Rotatoria Melara",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 2467,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Piazza Chiodo - Vezzano / Vezzano - Due Giugno",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 2473,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Castiglione",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 256,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Vignana",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 2564,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Fontona",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 2583,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Punta Mesco",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 2616,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Ponte Bettigna",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 2618,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Viale Ferrari",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 266,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Brugnato",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 271,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Garbugliaga",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 2710,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Sesta Godano - Antessio / Chiusola - Sesta Godano",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 2712,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Sesta Godano - Chiusola / Pignona - Sesta Godano",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 2764,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Valgiuncata",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 2767,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Castello Di Carro",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 277,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Piana Battolla",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 2770,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Bergassana Capolinea",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 2779,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Groppo",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 2868,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Varese",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 2874,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Sassetta",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 2946,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Montale",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 2950,
+      "agency_id": "ATC",
+      "route_short_name": 14,
+      "route_long_name": "Linea 14",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 2960,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Levanto",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 2963,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "La Foce",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 2973,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Castelnuovo",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 2988,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Palaspezia",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 299,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Via Roma - Castello",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 2995,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Bastremoli-Pian Di Follo",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 2996,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Tivegna",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 3000,
+      "agency_id": "ATC",
+      "route_short_name": 9,
+      "route_long_name": "Linea 9",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 3012,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Follo Alto-Bastremoli",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 3020,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "15/22",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 3028,
+      "agency_id": "ATC",
+      "route_short_name": 30,
+      "route_long_name": "Linea 30",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 3064,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Via Chiodo",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 3069,
+      "agency_id": "ATC",
+      "route_short_name": 17,
+      "route_long_name": "Linea 17",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 3094,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Stazione Fs",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 313,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Martinello",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 3133,
+      "agency_id": "ATC",
+      "route_short_name": 24,
+      "route_long_name": "La Spezia",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 3138,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Istituto Fossati",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 3189,
+      "agency_id": "ATC",
+      "route_short_name": "C",
+      "route_long_name": "Ceparana",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 3201,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Carrara",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 3209,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Oto Impiegati",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 3211,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Ridarolo Levanto",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 3216,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Scule Medie Levanto",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 3217,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Fontona Levanto",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 3281,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Lerici",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 3292,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Scuole Medie Fontana",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 3314,
+      "agency_id": "ATC",
+      "route_short_name": 16,
+      "route_long_name": "Piazza Chiodo",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 3341,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Casano",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 3368,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Piazzale Boito",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 3384,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Borghetti",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 3405,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Montale Vignana",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 3480,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Ponte Santa Margherita",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 3509,
+      "agency_id": "ATC",
+      "route_short_name": "N",
+      "route_long_name": "Linea N",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 3553,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Sarzana-Via Muccini",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 362,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Zona Industriale",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 3642,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Vettora",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 3644,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Fegina",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 3648,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Cimitero Riomaggiore",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 3649,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Biassa",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 3650,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Riomaggiore",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 3651,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Vernazza",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 3660,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Corniglia",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 3666,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Volastra",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 3667,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Parcheggio Vernazza",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 3671,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Cimitero",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 3672,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Lavaccio",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 3674,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Corniglia Stazione",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 3679,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Manarola",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 3680,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Monesteroli",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 3697,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Piazza Garibaldi",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 3701,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Zorza",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 3734,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Deposito",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 3738,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "15 / 19 / 22",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 3791,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "15 / 22",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 3840,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Vettora Via Roma",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 3842,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "P. Garibaldi",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 3843,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Vettora P. Garibaldi",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 3849,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Dogana",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 3871,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Asg",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 3874,
+      "agency_id": "ATC",
+      "route_short_name": 29,
+      "route_long_name": "Volastra",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 3885,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Cadelazino",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 3954,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Fontevivo Istituto Fossati",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 3959,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Corniolo",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 3996,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Cerri",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 4001,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Trebiano",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 4013,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Pitelli",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 4042,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Ponte Arcola",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 406,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Bovecchio",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 4078,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Drignana",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 4112,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Bivio Cappelletta",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 4152,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Pianazze",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 4184,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Piazza Nenni",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 4219,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Cornice",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 4232,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "San Gottardo Amandola Sup. Levanto",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 4243,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Passo Mola",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 4267,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Monterosso P.Zza Garibaldi",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 4281,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Gallona",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 4364,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Vignale Chiesa",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 4371,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Santa Maria",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 4445,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Valdellora",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 4477,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Vezzano",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 4507,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Sorlana-Vignana",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 4517,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Abetaia",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 4521,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Santa Maria Chiesa",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 4538,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Corea",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 4540,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Santo Stefano",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 4654,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Ferriere",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 4675,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Migliarina-Vezzano Basso",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 4714,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Sarciara",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 4757,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Airola",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 4833,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Albiano Magra",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 4862,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "02-giu",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 4872,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Manarola Pie Di Campo",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 4926,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Piazza Chiodo-Buonviaggio-Vezzano-Termo-Piazza Chiodo",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 4928,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Passo Cento Croci",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 4934,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Lavaggio Rosso",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 4937,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Albiano",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 4946,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Piana Di Carrodano",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 4953,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Depositio Mazzetta",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 4979,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Piazza Dante",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 5040,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Polverara",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 524,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Monti Pignone",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 530,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Tellaro Capolinea",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 539,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Sarzana Fs",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 615,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Bivio Carrodano",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 637,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Bracelli",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 651,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Casella",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 66,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Gruppa Capolinea",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 705,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Via Dei Colli",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 797,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Trezzo - Corvara",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 829,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Villagrossa",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 870,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Migliarina - Vezzano / Vezzano - Piazza Chiodo",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    },
+    {
+      "route_id": 902,
+      "agency_id": "ATC",
+      "route_short_name": "",
+      "route_long_name": "Debbio",
+      "route_type": 3,
+      "route_color": "FFFFFF",
+      "route_text_color": 0
+    }
+  ]
