@@ -96,13 +96,20 @@ import stops from '../assets/json/stops.json';
                 ) return true;
             }
            
-           
+           /** filtro il json stops.json se trova id corrispondente torna dati sulla fermata
+            * sarà necessario prendere il primo elemento dell'array ritornato ed il campo del nome -> stop_name;
+            */
             function getFermata(stopID) {
                 return stops.filter(
                     function(stops){ return stops.stop_id == stopID }
                 );
             }
 
+            /** per "tornare" la destinazione vengono innestate due funzioni 
+             * conosco difatti il trip_id passato dal json stop_times e lo devo confrontare con quelli presenti in trips.json
+             * quello trovato funziona da chiave per richiamare il primo route_id trovato nel json routes.json
+             * dove è contenuto il route_id corrispondente
+             */
             function getDestinazione(tripID){
                 return routes.filter(
                     function(routes){
@@ -160,6 +167,12 @@ import stops from '../assets/json/stops.json';
                         if (getOrariOggi(resStop_times.value[i].trip_id)) {
                             let total = stop_times.filter(x=> x.trip_id == resStop_times.value[i].trip_id);
                             // console.log("totale: "+total.length)
+                            
+                            /** il controllo su stop_sequence è dovuto dal momento che potrebbero esserci risultati errati
+                             * in alcuni casi difatti viene mostrato l'orario di arrivo di un percorso ad anello del bus
+                             * in questo caso quindi si controllano le occorrenze degli stop_sequence e se sono uguali al totale 
+                             * non vengono presi in considerazione
+                             */
                             
                             if (total.length != resStop_times.value[i].stop_sequence){
                                 destinazione.value.push(getDestinazione(resStop_times.value[i].trip_id)[0].route_long_name);
